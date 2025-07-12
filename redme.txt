@@ -1,0 +1,24 @@
+solve the below questions and submit the code with proper format (JupyterNotebook) .
+
+    Get the current date and time, and display it in the format DD/MM/YYYY HH:MM:SS.
+    Get yesterday's date and print it.
+    Write a function to return the number of days remaining until New Year's Day of the next year.
+    Ask the user to enter their date of birth, and calculate their exact age in years, months, and days.
+    Given a date string "2024-11-15", convert it into a datetime object, and print the day of the week.
+    Given two date strings, "2025-01-10" and "2024-12-20", calculate the number of days, hours, and minutes between them.
+    Create a function that takes a datetime object and returns the same time 12 hours later.
+    Write a program that displays the current time in 12-hour format with AM/PM.
+    Take a user input date (e.g., event date) and add 100 days to it. Print the new date.
+    Write a script to check if a given year is a leap year using the datetime module only.
+    Create a countdown timer that shows how many days are left until a specific deadline (e.g., "Final Project Submission Date").
+    Simulate a task logger that:
+    Captures current time before and after a dummy process (e.g., time.sleep(3)), and
+    Displays time taken using timedelta.
+    Create a list of the next 7 days starting from today and display them in Weekday, DD-MM-YYYY format.
+    Write a program that calculates the number of weekdays (Mon–Fri) between two dates.
+    Simulate a function to schedule a task every 15 days from a given start date. Print the next 5 scheduled dates.
+    Write a script to round down the current time to the nearest hour using datetime.
+    Given a start_time = "09:30" and duration = "2:45", calculate and print the end time.
+    Create a function that returns whether the current time is within business hours (9 AM – 5 PM).
+    Calculate the number of complete months between two given dates.
+    Given a list of timestamps in ISO format, sort them chronologically and print the sorted list.
